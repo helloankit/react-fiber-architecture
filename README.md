@@ -24,10 +24,10 @@ My goal is that after reading this document, you will understand Fiber well enou
 
 I strongly suggest that you are familiar with the following resources before continuing:
 
-- [React Components, Elements, and Instances](https://facebook.github.io/react/blog/2015/12/18/react-components-elements-and-instances.html) - "Component" is often an overloaded term. A firm grasp of these terms is crucial.
-- [Reconciliation](https://facebook.github.io/react/docs/reconciliation.html) - A high-level description of React's reconciliation algorithm.
+- [React Components, Elements, and Instances](https://legacy.reactjs.org/blog/2015/12/18/react-components-elements-and-instances.html) - "Component" is often an overloaded term. A firm grasp of these terms is crucial.
+- [Reconciliation](https://legacy.reactjs.org/docs/reconciliation.html) - A high-level description of React's reconciliation algorithm.
 - [React Basic Theoretical Concepts](https://github.com/reactjs/react-basic) - A description of the conceptual model of React without implementation burden. Some of this may not make sense on first reading. That's okay, it will make more sense with time.
-- [React Design Principles](https://facebook.github.io/react/contributing/design-principles.html) - Pay special attention to the section on scheduling. It does a great job of explaining the *why* of React Fiber.
+- [React Design Principles]([https://facebook.github.io/react/contributing/design-principles.html](https://legacy.reactjs.org/docs/design-principles.html)) - Pay special attention to the section on scheduling. It does a great job of explaining the *why* of React Fiber.
 
 ## Review
 
